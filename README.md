@@ -1,3 +1,6 @@
+# Mon Projet ASR (Automatic Speech Recognition)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rayan4534/NLP-project/blob/main/Projet_ASR.ipynb)
 # NLP-project
 # Projet ASR — Reconnaissance Automatique de la Parole Amazigh
 
